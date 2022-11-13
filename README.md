@@ -3,10 +3,10 @@
 <br>
 <br>
 <br>
-<p align="center">My Pronouns are he not him because i will never be him</p>
+<p align="center">My Pronouns are He not Him because i will never be him</p>
 <br>
 <p align="center"> 
-  him:<img src="https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" width="200">
+  Him:<img src="https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" width="200">
 </p>
 <br>
 <br>
