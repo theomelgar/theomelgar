@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-<p align="center">My Pronouns are He not Him because i will never be him</p>
+<p align="center">My Pronouns are He, not Him. Because i will never be him</p>
 <br>
 <p align="center"> 
   Him:<img src="https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" width="200">
