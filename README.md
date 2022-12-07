@@ -1,5 +1,9 @@
 <br>
-<br>
+<div align="right">
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftheomelgar">
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftheomelgar&label=Monkey%20Lovers&countColor=%23263759" />
+    </a>
+</div>
 <br>
 <br>
 <br>
