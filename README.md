@@ -1,7 +1,7 @@
 <br>
 <div align="right">
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftheomelgar">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftheomelgar&label=Monkey%20Lovers&countColor=%23263759" />
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftheomelgar&label=monkey%20lovers&labelColor=%23ff8a65&countColor=%23f47373&style=plastic&labelStyle=upper" />
     </a>
 </div>
 <br>
@@ -14,6 +14,10 @@
 </p>
 <br>
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theomelgar&langs_count=4&theme=gotham&layout=compact&border_radius=15px" />
+</div>
 <br>
 <br>
 <p align="center">
