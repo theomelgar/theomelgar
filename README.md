@@ -9,7 +9,9 @@
 <br>
 <p align="center">*imagine a generic phrase right here*</p>
 <br>
-<p></p>
+<p align="center">I am a fullstack developer, but I really enjoy doing layouts in the front end, I will make sure this profile stay updataded with my interests and projects</p>
+<br/>
+<br/>
 <p align="center"> 
  Actual footage of me coding:<img src="https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" width="200">
 </p>
