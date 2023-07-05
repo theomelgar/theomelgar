@@ -9,7 +9,9 @@
 <br>
 <p align="center">*we live in a society*</p>
 <br>
-<p align="center">I am a fullstack developer, I will make sure this profile stays updataded with my interests and projects</p>
+<p align="center">I am a fullstack developer</p>
+<p align="center">I like centralizing divs and working with databases</p>
+<p align="center">I will make sure this profile stays updataded with my interests and projects</p>
 <br/>
 <br/>
 <p align="center"> 
